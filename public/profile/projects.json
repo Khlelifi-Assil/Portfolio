@@ -2,12 +2,12 @@
     "projects" : [
         {
             "image" : "images/projects/portfolio-poster.png",
-            "title": "Mazed",
+            "title": "Portfolio",
             "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/Khlelifi-Assil/Portfolio"
                 },
                 {
                     "text": "Live",
@@ -22,12 +22,12 @@
         },
         {
             "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "title": "Mazed - E-commerce web / Mobile App",
+            "bodyText": "- A Web & Mobile **E-Commerce** App. Auction Sale Simulation.\n - **Firebase** Authentification.\n - **Cloud** App",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/Khlelifi-Assil/mazed"
                 },
                 {
                     "text": "Live",
@@ -35,84 +35,76 @@
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
+                "Reactjs",
+                "React-Native",
                 "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
+                "firebase",
+                "Reduxe"
+                   ]
         },
         {
             "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "title": "Weeding Robot",
+            "bodyText": "- An I.A Arduino App for **weeding** with **LASER** cutter. \n - **Auto-learning** Python Algorithms used to detect and recognit plants.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "href": "https://github.com/Khlelifi-Assil/Robot"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Python / Iris",
+                "Arduino",
+                "ISIS Proteus",
+                "LASER"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "title": "Covid-19 App-Track",
+            "bodyText": "- An Android App that allows authorities to track a Covid-19 sick.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store data.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "href": "https://github.com/Khlelifi-Assil/COVID-19-Serve-Node.JS"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
+                "Expo js",
+                "Express js",
                 "Firebase",
                 "RSA"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "title": "Gestionnaire des Carburants",
+            "bodyText": "- windev python application to manage the fuels of SNCFT service cars.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "href": "https://github.com/Khlelifi-Assil/Gestionnaire_des_Carburants_WINDEV"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
-            ]
+                "Wlanguage",
+                "Windev",
+                "Python",
+                "HFSQL"
+                        ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "title": "Gestionnaire des congés",
+            "bodyText": "- Manage the holidays of SNCFT agents.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "href": "https://github.com/Khlelifi-Assil/gestionnaire-des-conges-jee"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "Jee",
+                "Bootstrap",
+                "Mysql",
+                "Spring"
             ]
         },
         {
@@ -121,7 +113,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/Khlelifi-Assil/gestionnaire-des-conges-jee"
                 }
             ],
             "tags" : [
@@ -129,22 +121,7 @@
                 "Angular 12",
                 "JavaScript"
             ]
-        },
-        {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
-                }
-            ],
-            "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
-            ]
         }
+        
     ]
 }
