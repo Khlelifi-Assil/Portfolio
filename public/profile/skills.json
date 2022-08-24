@@ -4,7 +4,15 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
+
+                {
+                    "icon": "images/skills/c.png",
+                    "title": "C"
+                },
+                {
+                    "icon": "images/skills/c++.png",
+                    "title": "C++"
+                },
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
@@ -22,8 +30,16 @@
                     "title": "Python"
                 },
                 {
+                    "icon": "images/skills/dart.png",
+                    "title": "Dart"
+                },
+                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDb"
                 }
         ]},
         {
@@ -40,6 +56,31 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },                
+                {
+                    "icon": "images/skills/flutter.png",
+                    "title": "Flutter"
+                },                     
+                {
+                    "icon": "images/skills/vuejs.png",
+                    "title": "Vue"
+                },                     
+                {
+                    "icon": "images/skills/Bootstrap.png",
+                    "title": "Bootstrap 4"
+                },                     
+                {
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
+                },
+                {
+                    "icon": "images/skills/expojs.png",
+                    "title": "Expojs"
+
+                },
+                {
+                    "icon": "images/skills/spring.png",
+                    "title": "Spring"
                 }
             ]
         },
@@ -57,7 +98,28 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },                     
+                {
+                    "icon": "images/skills/Intellij.png",
+                    "title": "IntelliJ"
+                },                     
+                {
+                    "icon": "images/skills/Jira.png",
+                    "title": "Jira"
                 }
             ]
-    }
+    },
+    {
+        "title" : "Cloud",
+        "items": [
+            {
+                "icon": "images/skills/Aws.png",
+                "title": "Aws"
+            },
+            {
+                "icon": "images/skills/Azure.png",
+                "title": "Azure"
+            }
+        ]
+}
 ]}

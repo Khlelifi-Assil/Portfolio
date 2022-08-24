@@ -1,33 +1,25 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Administrative agent - Developer",
+            "subtitle": "SNCFT",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Execution and monitoring of orders and public contracts.",
+                "Development and implementation of management applications."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "12/2017 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Freelancer - Full Stack Developer",
+            "subtitle": "ATS",
+            "workType": "Freelancer",
             "workDescription": [
-                "Worked on abc."
+                "Full Stack Development",
+                "Web & Mobile application development.",
+                "IT systems Development."
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01/2016 – Present"
         }
     ]
 }
