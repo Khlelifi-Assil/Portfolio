@@ -121,6 +121,36 @@
                 "Angular 12",
                 "JavaScript"
             ]
+        },
+        {
+            "title": "Lightbox-Website",
+            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Khlelifi-Assil/gestionnaire-des-conges-jee"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Lightbox-Website",
+            "bodyText": "- A Dictionary App Uses React And FreeDictionaryApi.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Khlelifi-Assil/gestionnaire-des-conges-jee"
+                }
+            ],
+            "tags" : [
+                "TypeScript",
+                "Angular 12",
+                "JavaScript"
+            ]
         }
         
     ]
