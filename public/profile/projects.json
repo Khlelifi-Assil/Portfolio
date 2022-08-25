@@ -11,7 +11,7 @@
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://khelifi-assil.vercel.app/"
                 }
             ],
             "tags" : [
@@ -21,7 +21,6 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
             "title": "Mazed - E-commerce web / Mobile App",
             "bodyText": "- A Web & Mobile **E-Commerce** App. Auction Sale Simulation.\n - **Firebase** Authentification.\n - **Cloud** App",
             "links": [
@@ -31,7 +30,7 @@
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": " "
                 }
             ],
             "tags" : [
@@ -43,7 +42,6 @@
                    ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
             "title": "Weeding Robot",
             "bodyText": "- An I.A Arduino App for **weeding** with **LASER** cutter. \n - **Auto-learning** Python Algorithms used to detect and recognit plants.",
             "links": [
