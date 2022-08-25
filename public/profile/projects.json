@@ -138,20 +138,86 @@
             ]
         },
         {
-            "title": "Lightbox-Website",
-            "bodyText": "- A Dictionary App Uses React And FreeDictionaryApi.",
+            "title": "Sentimos",
+            "bodyText": "- A web-application in which the user can write their daily diary on the basis of experiences and emotions.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/Khlelifi-Assil/gestionnaire-des-conges-jee"
+                    "href": "https://github.com/Khlelifi-Assil/sentimos"
                 }
             ],
             "tags" : [
+                "Full Stack Frontend / Backencd",
                 "TypeScript",
-                "Angular 12",
-                "JavaScript"
+                "JavaScript",
+                "Nodejs",
+                "Reactjs",
+                "Python"
+            ]
+        },
+        {
+            "title": "Dashboard Admin ",
+            "bodyText": "- A Dashboard Admin Template.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Khlelifi-Assil/bird_admin"
+                }
+            ],
+            "tags" : [
+                "SpringBoot",
+                "MySQL",
+                "memcached",
+                "token by JWT"
+            ]
+        },
+        {
+            "title": "Dashboard Admin ",
+            "bodyText": "- A Dashboard Admin Template.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Khlelifi-Assil/bird_admin"
+                }
+            ],
+            "tags" : [
+                "SpringBoot",
+                "MySQL",
+                "memcached",
+                "token by JWT"
+            ]
+        },
+        {
+            "title": "dev-radar-backend",
+            "bodyText": "- An Application based on Omnistack 10.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Khlelifi-Assil/dev-radar-backend"
+                }
+            ],
+            "tags" : [
+                "Nodejs",
+                "React",
+                "React Native"
+            ]
+        },
+        {
+            "title": "Chat App",
+            "bodyText": "-Chat Application Javascript",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Khlelifi-Assil/chat-app-react-nodejs"
+                }
+            ],
+            "tags" : [
+                "Nodejs",
+                "React js",
+                "Express js",
+                "Mongoose"
             ]
         }
-        
+       
     ]
 }
